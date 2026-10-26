@@ -3,7 +3,3 @@ pandas
 plotly
 seaborn
 numpy
-scipy
-scikit-learn
-statsmodels
-openpyxl
